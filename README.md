@@ -7,5 +7,6 @@
 ### `- Arquivos JSX separados em componentes`
 ### `- Responsivo`
 ### `- Foram utilizados métodos como *Map*, *Filter*, *useState*, entre outros...`
+### `- Foram utilizados *Props*, *Componentização*, *Laço de repetição*, *Condicional If*, *Arrow Functions*...`
 ### `- Foi utilizada a lib Material UI – Framework React UI`
 <p>A Material UI é uma biblioteca de componentes React de código aberto que implementa o design do Google. Ele inclui uma coleção abrangente de componentes pré-construídos que estão prontos para uso na produção imediata.</p>
